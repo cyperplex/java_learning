@@ -1,4 +1,4 @@
-public class Quack implements QuackBehavior{
+public class Quack implements QuackBehaviour {
     public void quack() {
         System.out.println("Quack");
     }
