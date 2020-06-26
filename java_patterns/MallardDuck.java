@@ -1,7 +1,7 @@
 public class MallardDuck extends Duck {
 
     public MallardDuck() {
-        quackBehaviour = new Quack();
+        quackBehavior = new Quack();
         flyBehavior = new FlyWithWings();
     }
     public void display() {
